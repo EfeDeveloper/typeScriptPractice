@@ -1,0 +1,17 @@
+{
+  "name": "natural",
+  "version": "0.0.3",
+  "description": "typeScrip proyect",
+  "main": "index.js",
+  "author": "EdFerVilla",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server && tsc -w"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "systemjs": "^6.12.1"
+  }
+}
